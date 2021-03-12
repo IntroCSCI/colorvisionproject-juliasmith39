@@ -1,8 +1,8 @@
-# !!!Replace with your unique project name!!!
+# Color Blindness Safety
 
 ## Description
 
-!!!Replace with a description of what your program does!!!
+This program takes user input and creates a theme that involves 6 distinct colors that are safe for those with color blindness to use.
 
 ### v0.2 Updates
 
@@ -15,7 +15,7 @@
 
 ## Developer
 
-!!!Replace with your name!!!
+Julia Smith
 
 ## Example
 
